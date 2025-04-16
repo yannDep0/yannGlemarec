@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Portfolio"
-permalink: /Portfolio/
+permalink: /portfolio/
 ---
 
 <img src="{{ '/pictures/Diag_FridgeMovements.png' | relative_url }}" alt="User Study figure depicting the vibrotactile feedback propagation." width="500" style="display: block; margin: 0 auto; margin-top: 15px;" />
