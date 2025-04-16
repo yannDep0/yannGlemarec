@@ -10,13 +10,13 @@ permalink: /about/
   }
 </style>
 
-<img src="{{ '/pictures/yann.jpg' | relative_url }}" alt="drawing" width="100"/>
+<img src="{{ '/pictures/yann.jpg' | relative_url }}" alt="drawing" width="100" style="border-radius: 10%;"/>
 
 ---
 
 ## Yann Glémarec
 
-Post-doctorate researcher | INRIA Rennes, France | [ORCID](https://orcid.org/0000-0003-1717-6048) 
+Post-doctorate researcher | INRIA Rennes, France | 🔎 [ORCID](https://orcid.org/0000-0003-1717-6048) 
 
 --- 
 
