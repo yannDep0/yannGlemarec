@@ -6,7 +6,7 @@ layout: home
 ---
 
 
-<img src="{{ '/pictures/Yann.jpg' | relative_url }}" alt="drawing" width="100"/>
+<img src="{{ '/pictures/yann.jpg' | relative_url }}" alt="drawing" width="100"/>
 
 ---
 
