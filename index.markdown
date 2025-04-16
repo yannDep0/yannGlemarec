@@ -7,7 +7,7 @@ layout: home
 
 
 <p style="text-align: center;">
-  <img src="{{ '/pictures/yann.jpg' | relative_url }}" alt="Yann" style="display: block; margin: 0 auto; width: 500px;"	 />
+  <img src="{{ '/pictures/yann.jpg' | relative_url }}" alt="Yann" width="500"	 />
 </p>
 
 ---
