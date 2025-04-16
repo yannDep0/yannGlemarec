@@ -6,7 +6,9 @@ layout: home
 ---
 
 
-![Yann]({{ '/pictures/yann.jpg' | relative_url }})
+<p style="text-align: center;">
+  <img src="{{ '/pictures/yann.jpg' | relative_url }}" alt="Yann" style="width:150px; border-radius: 50%;" />
+</p>
 
 ---
 
