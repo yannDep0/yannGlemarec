@@ -4,6 +4,12 @@ title: About
 permalink: /about/
 ---
 
+<style>
+  .page-content p {
+    text-align: justify;
+  }
+</style>
+
 <img src="{{ '/pictures/yann.jpg' | relative_url }}" alt="drawing" width="100"/>
 
 ---
