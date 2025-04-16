@@ -6,7 +6,7 @@ layout: home
 ---
 
 
-<img src="{{ '/pictures/yann.jpg' | relative_url }}" alt="drawing" width="100"/>
+<img src="{{ '/pictures/Yann.jpg' | relative_url }}" alt="drawing" width="100"/>
 
 ---
 
@@ -17,3 +17,5 @@ Post-doctorate researcher | INRIA Rennes, France | [ORCID](https://orcid.org/000
 --- 
 
 # Incoming content
+
+Direct links.
