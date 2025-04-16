@@ -7,6 +7,7 @@ layout: home
 
 
 ![Yann]({{ '/pictures/yann.jpg' | relative_url }})
+
 ---
 
 ## Yann Glémarec
