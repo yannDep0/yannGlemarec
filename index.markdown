@@ -59,8 +59,6 @@ Post-doctorate researcher | INRIA Rennes, France | [ORCID](https://orcid.org/000
 
 --- 
 
-# Incoming content
-
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-top: 30px;">
 
   <a href="{{ '/yannGlemarec.github.io/portfolio/' | relative_url }}" class="image-button">
