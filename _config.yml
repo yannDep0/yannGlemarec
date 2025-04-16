@@ -22,9 +22,9 @@ title: Yann's landing page
 email: yann.glemarec@inria.fr
 description: >- # this means to ignore newlines until "baseurl:"
   This page introduces my current research work and past projects. 
-baseurl: "/yannGlemarec.github.io" # the subpath of your site, e.g. /blog
+baseurl: "/yannGlemarec.github.io"
 domain: yannGlemarec.github.io
-url: https://yanndep0.github.io # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://yanndep0.github.io"
 #twitter_username: ""
 linkedin_username: yann-glémarec-aab29111a
 github_username:  yannDep0
