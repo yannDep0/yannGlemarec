@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img src="../pictures/Yann.jpg" alt="drawing" width="100"/>
+<img src="../pictures/yann.jpg" alt="drawing" width="100"/>
 
 ---
 
