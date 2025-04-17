@@ -14,6 +14,9 @@ permalink: /portfolio/
 
 ## 📰 Modeling Effort Perception in virtual reality: A Parameter-Based Haptic Feedback Approach
 
+Seamless, Inria, Univ. Rennes, France | 2024 | [DOI]() 
+Yann Glémarec, Tom Roy, Quentin Galvan, Gurvan Lécuyer, Ferran Argelaguet, Anatole Lécuyer |  | 
+
 This project is still under review. (Submission date 13 of November 2024)
 
 ---
