@@ -16,17 +16,17 @@ permalink: /about/
 
 ## Yann Glémarec
 
-Post-doctorate researcher | INRIA Rennes, France | 🔎 [ORCID](https://orcid.org/0000-0003-1717-6048) 
+Associate Professor | University of Brest, Lab-STICC UMR 6285, France | 🔎 [ORCID](https://orcid.org/0000-0003-1717-6048) 
 
 --- 
 
 ## 💡 About me
 
-I am a postdoc at Inria Rennes, France, and InterDigital Inc. in the shared lab Nemo.ai. My main research topic is haptic technologies to augment users in immersive media. Therefore, I work on various perception studies and develop hardware prototypes. In parallel, I also write patents for the MPEG haptic format, i.e., the MPEG-I standard.  
+I am a associate professor at the University of Brest, France, in the INUIT team from the Lab-STICC. My main research topic is haptic technologies to augment users in immersive media. Therefore, I work on various perception studies and develop hardware prototypes. In parallel, I also investigate how to develop multimodal interactions with virtual agents to sustain collaboration in mixed reality.
 
 ## Projects
 
-During my thesis, I worked a lot on intelligent virtual agents and virtual reality simulation (see [STAGE project](https://www.frontiersin.org/journals/virtual-reality/articles/10.3389/frvir.2022.876433/full)) for education and exposure therapy in virtual reality. Today, I am involved in a project exploring user augmentation with haptic technologies, such as strength perception in virtual reality through vibrotactile feedback or augmented narrative engagement through multimodal feedback. 
+During my thesis, I worked on intelligent virtual agents and virtual reality simulation (see [STAGE project](https://www.frontiersin.org/journals/virtual-reality/articles/10.3389/frvir.2022.876433/full)) for education and exposure therapy in virtual reality. Today, I am involved in a project exploring user augmentation with haptic technologies, such as strength perception in virtual reality through vibrotactile feedback or augmented narrative engagement through multimodal feedback. 
 
 --- 
 
@@ -65,9 +65,9 @@ See [HAL, science ouverte ](https://hal.science/search/index/?q=yann+gl%C3%A9mar
 
 ## Contact Details
 
-Email: yann.glemarec@inria.fr
+Email: yann.glemarec@univ-brest.fr
 
 Office: 
-Campus universitaire de Beaulieu
-Avenue du Général Leclerc
-35042 Rennes Cedex, France
+Dpt Informatique, Lab-STICC (UMR 6285)
+UFR Sciences et Techniques
+20 av. Victor Le Gorgeu, 29200 BREST
