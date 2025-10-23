@@ -55,7 +55,7 @@ layout: home
 
 ## Yann Glémarec
 
-Post-doctorate researcher | INRIA Rennes, France | 🔎  [ORCID](https://orcid.org/0000-0003-1717-6048) 
+Associate Professor | University of Brest, France | 🔎  [ORCID](https://orcid.org/0000-0003-1717-6048) 
 
 --- 
 
