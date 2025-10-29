@@ -73,4 +73,11 @@ Associate Professor | University of Brest, France | 🔎  [ORCID](https://orcid.
     </div>
   </a>
 
+  <a href="{{ '/hiring/' | relative_url }}" class="image-button">
+    <div class="button-content" style="background-image: url('{{ "/pictures/computer-549080_640.jpg" | relative_url }}');">
+      <span>Hiring</span>
+    </div>
+  </a>
+
 </div>
+

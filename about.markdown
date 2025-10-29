@@ -36,7 +36,7 @@ During my thesis, I worked on intelligent virtual agents and virtual reality sim
 
 - Virtual reality: Presence et Immersion, embodiment, agency, copresence; ENIB, Brest, France
 - Engagement dans les jeux (Engagement in games); ENIB, Brest ,France **ogirinal lecture by Anne-Gwenn Bosser**
-- Introduction to haptic technologies; ENIB, Brest, France **created with the help of Ferran Argelaguet and an open-access lecture from Fabien Danieau**
+- Introduction to haptic technologies; ENIB, Brest, France **created with the help of Ferran Argelaguet**
 
 ### Labs
 

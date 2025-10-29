@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Yann's landing page
+title: Yann Glémarec
 email: yann.glemarec@univ-brest.fr
 description: >- # this means to ignore newlines until "baseurl:"
-  This page introduces my current research work and past projects. 
+  This page introduces my current research work and past projects. © Yann Glémarec 2025
 baseurl: "/yannGlemarec" 
 domain: yannGlemarec
 url: "https://yanndep0.github.io"
