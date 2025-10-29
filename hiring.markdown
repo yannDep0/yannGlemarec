@@ -8,8 +8,8 @@ permalink: /hiring/
     text-align: justify;
   }
 </style>
-
-<img src="{{ '/pictures/logo-sea-eu.png' | relative_url }}" alt="Sea-EU program's logo." width="500" style="display: block; margin: 0 auto; margin-top: 15px;" />
+--- 
+<img src="{{ '/pictures/logo-sea-eu.png' | relative_url }}" alt="Sea-EU program's logo." width="300" style="display: block; margin: 0 auto; margin-top: 15px;" />
 
 ## 💠 Haptic Interactive Media Design for Short Animated Movies and Games
 

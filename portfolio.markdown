@@ -10,6 +10,8 @@ permalink: /portfolio/
   }
 </style>
 
+--- 
+
 <img src="{{ '/pictures/Diag_FridgeMovements.png' | relative_url }}" alt="User Study figure depicting the vibrotactile feedback propagation." width="500" style="display: block; margin: 0 auto; margin-top: 15px;" />
 
 ## 📰 Modeling Effort Perception in virtual reality: A Parameter-Based Haptic Feedback Approach
