@@ -22,11 +22,11 @@ Associate Professor | University of Brest, Lab-STICC UMR 6285, France | 🔎 [OR
 
 ## 💡 About me
 
-I am a associate professor at the University of Brest, France, in the INUIT team from the Lab-STICC. My main research topic is haptic technologies to augment users in immersive media. Therefore, I work on various perception studies and develop hardware prototypes. In parallel, I also investigate how to develop multimodal interactions with virtual agents to sustain collaboration in mixed reality.
+I am an Associate Professor at the University of Brest, France, and a member of the INUIT team at Lab-STICC. My primary research focus is on haptic technologies designed to augment users’ experiences in immersive media. Accordingly, I conduct various perceptual studies and develop hardware prototypes. In parallel, I also investigate the development of multimodal interactions with virtual agents to support collaboration in mixed reality.
 
 ## Projects
 
-During my thesis, I worked on intelligent virtual agents and virtual reality simulation (see [STAGE project](https://www.frontiersin.org/journals/virtual-reality/articles/10.3389/frvir.2022.876433/full)) for education and exposure therapy in virtual reality. Today, I am involved in a project exploring user augmentation with haptic technologies, such as strength perception in virtual reality through vibrotactile feedback or augmented narrative engagement through multimodal feedback. 
+During my doctoral research, I worked on intelligent virtual agents and virtual reality simulations for education and exposure therapy (see [STAGE project](https://www.frontiersin.org/journals/virtual-reality/articles/10.3389/frvir.2022.876433/full)). I am currently involved in a project exploring user augmentation through haptic technologies, including the perception of strength in virtual reality via vibrotactile feedback and enhanced narrative engagement through multimodal feedback.
 
 --- 
 
@@ -34,21 +34,25 @@ During my thesis, I worked on intelligent virtual agents and virtual reality sim
 
 ### Lectures
 
-- Virtual reality: Presence et Immersion, embodiment, agency, copresence; ENIB, Brest, France
+- Virtual reality: Presence et Immersion, embodiment, agency, copresence; ENIB & Univ Brest, Brest, France
 - Engagement dans les jeux (Engagement in games); ENIB, Brest ,France **ogirinal lecture by Anne-Gwenn Bosser**
 - Introduction to haptic technologies; ENIB, Brest, France **created with the help of Ferran Argelaguet**
 
 ### Labs
 
-- Object-oriented programming (Java OOP); ENIB, Brest, France
+- Object-oriented programming (Java OOP); ENIB & Univ Brest, Brest, France
 - Introduction to game engines (part of the game design course); SIIA Master (UBO, ENIB, IMT Atlantique)
 - Multidisciplinary project (Computer science, robotics, and embedded programming), leading the computer science side, developing a user interface, and the communication protocols to communicate (wi-fi, Bluetooth) with an autonomous robot (finite state machines) (ENIB)
+- Bachelor's technical projects (reponsible for the HCI and Networking features); Univ. Brest, France
+- Basic algorithm in C (2nd year of Bachelor); Univ. Brest, Brest, France
+- Software engineering (shared labs to all Masters); Univ. Brest, France
 
 ### Student Supervision
 
 - Jessica Topel (Master thesis HCI Group): supporting me on my thesis, enhancing the animation pipeline for virtual reality.
 - Florian Wellmeyer, Lucas Brand, Fergal Iquel (ENIB): MPEG standard communication with a universal robot, programming of proxemic behaviors, virtual agent navigation, and IK in virtual reality.
-- Paul Cagniat, Tien Đung (UBO Master SIIA): developing a digital twin of Brest populated with virtual agents, integrating UE5 AI tools to program bots for a student bot believability contest.
+- Paul Cagniat, Tien Đung, Léna Vigne (UBO Master SIIA): developing a digital twin of Brest populated with virtual agents, integrating UE5 AI tools to program bots for a student bot believability contest.
+- Daryl Vassalo (Erasmus Intership with the Sea-EU Alliance): Haptic Interactive Media Design for Short Animated Movies and Games
 
 ## HAL Publication
 

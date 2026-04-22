@@ -12,14 +12,27 @@ permalink: /portfolio/
 
 --- 
 
+<img src="{{ '/pictures/SpatializationExample.png' | relative_url }}" alt="User Study figure depicting the vibrotactile feedback propagation." width="500" style="display: block; margin: 0 auto; margin-top: 15px;" />
+
+## 📰 Beyond Audio-to-Haptic: A Comparative User Study of Vibrotactile Design Strategies for Cinematic Experiences
+
+Seamless, Inria, Univ. Rennes, France & Lab-STICC CNRS UMR 6285, Univ. Brest, France | 2026 | <a id="raw-url" href="">DOI</a> 
+Yann Glémarec, Tom Roy, Quentin Galvan, Gurvan Lécuyer, Ferran Argelaguet |  | EuroHaptics (July 2026)
+
+
+
+---
+
+--- 
+
 <img src="{{ '/pictures/Diag_FridgeMovements.png' | relative_url }}" alt="User Study figure depicting the vibrotactile feedback propagation." width="500" style="display: block; margin: 0 auto; margin-top: 15px;" />
 
 ## 📰 Modeling Effort Perception in virtual reality: A Parameter-Based Haptic Feedback Approach
 
-Seamless, Inria, Univ. Rennes, France | 2024 | <a id="raw-url" href="https://yanndep0.github.io/yannGlemarec/download/preprit-modelingEffort2025.pdf">preprint</a> 
-Yann Glémarec, Tom Roy, Quentin Galvan, Gurvan Lécuyer, Ferran Argelaguet, Anatole Lécuyer |  | 
+Seamless, Inria, Univ. Rennes, France | 2026 | <a id="raw-url" href="https://ieeexplore.ieee.org/abstract/document/11363430">DOI</a> 
+Yann Glémarec, Tom Roy, Quentin Galvan, Gurvan Lécuyer, Ferran Argelaguet, Anatole Lécuyer |  | TVCG
 
-This project is still under review. (Submission date 13 of November 2024)
+
 
 ---
 
@@ -28,11 +41,11 @@ This project is still under review. (Submission date 13 of November 2024)
 ## 📄 Towards Virtual Audience Simulation For Speech Therapy
 
 HCI Group, University of Würzburg (Germany) & Lab-STICC, ENIB (France) | 2022 | [DOI](https://doi.org/10.1145/3570945.3607348) 
-Yann Glémarec, Jean-Luc Lugrin, Amelie Hörman, Cédric Buche, Norina Lauer, Marc Erich Latoschik |  | 
+Yann Glémarec, Jean-Luc Lugrin, Amelie Hörman, Cédric Buche, Norina Lauer, Marc Erich Latoschik |  | IVA'23
 
 ### Details
 
-This project was a proof of concept for using our virtual audience simulation system in virtual reality in exposure therapy. Thus, in collaboration with Prof. Norina Lauer and her student Amelie Hörman, we conducted a preliminary user study to evaluate its potential use at the Logopädie Plus Praxis. This study highlights the relevant features of exposure therapy and limitations that mainly lower the simulation believability according to patients. On the therapist side, we mainly evaluated the acceptability and usability of the system as well as the web browser application we developed to supervise the simulation, i.e., the web application that controls the therapeutic scenario.
+This project served as a proof of concept for the use of our virtual audience simulation system in virtual reality for exposure therapy. In collaboration with Prof. Norina Lauer and her student, Amelie Hörman, we conducted a preliminary user study to evaluate its potential application at the Logopädie Plus Praxis. The study identified key features relevant to exposure therapy, as well as limitations that, according to patients, mainly reduced the believability of the simulation. From the therapists’ perspective, we primarily evaluated the acceptability and usability of both the system and the web-based application developed to supervise the simulation, that is, to control the therapeutic scenario.
 
 ### 📎 Abstract 
 
@@ -46,7 +59,7 @@ Virtual reality (VR) technology has shown promise in various therapeutic applica
 ## 📰 Controlling the Stage: A High-Level Control System for Virtual Audiences in Virtual Reality
 
 HCI Group, University of Würzburg (Germany) & Lab-STICC, ENIB (France) | 2022 | [DOI](https://dx.doi.org/10.3389/frvir.2022.876433) 
-Yann Glémarec, Jean-Luc Lugrin, Anne-Gwenn Bosser, Cédric Buche, Marc Erich Latoschik|  | 
+Yann Glémarec, Jean-Luc Lugrin, Anne-Gwenn Bosser, Cédric Buche, Marc Erich Latoschik|  | Front. In VR
 
 ### Details
 
