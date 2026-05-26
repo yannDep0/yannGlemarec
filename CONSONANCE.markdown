@@ -1,6 +1,6 @@
 ---
 layout: page
-
+title: CONSONANCE
 ---
 
 <style>
@@ -9,7 +9,7 @@ layout: page
   }
 </style>
 
-# CONSONANCE
+
 --- 
 
 ## Page en construction 🚧

@@ -93,18 +93,22 @@ permalink: /portfolio/
 Seamless, Inria, Univ. Rennes, France & Lab-STICC CNRS UMR 6285, Univ. Brest, France | 2026 | <a id="raw-url" href="">DOI</a> 
 Yann Glémarec, Tom Roy, Quentin Galvan, Gurvan Lécuyer, Ferran Argelaguet |  | EuroHaptics (July 2026)
 
----
+### Abstract
+
+The design of vibrotactile content remains less standardized than that of audio or video, and the impact of different rendering strategies on haptic user experience is still not well understood. In this work, we investigate the relevance of the haptic user experience concept for comparing vibrotactile rendering strategies in a passive movie-viewing context. We compare several vibrotactile rendering approaches applied to the same animated short movie. While all the methods evaluated are audio-driven rendering methods they differ in their degree of signal customization across actuators, body locations and feedback spatialization. To evaluate their perceptual impact, we conducted a user study in which participants experienced multiple vibrotactile versions of the same movie sequence. Haptic experience was assessed using the HXI questionnaire. Our results show that direct audio-to-haptic methods and frequency bands approach alone provide a poor haptic experience. Overall, this work demonstrates that design methods based solely on audio-driven rendering, even when adapted to specific hardware constraints, are insufficient to produce a high-quality haptic user experience. Our approach, relying on body-part-specific rendering strategies along with diegetic and non-diegetic effects, appears promising but requires further investigation to establish an optimal design pipeline and to better understand their impact on user perception.
 
 --- 
 
 <img src="{{ '/pictures/Diag_FridgeMovements.png' | relative_url }}" alt="User Study figure depicting the vibrotactile feedback propagation." width="500" style="display: block; margin: 0 auto; margin-top: 15px;" />
 
-## 📰 Modeling Effort Perception in virtual reality: A Parameter-Based Haptic Feedback Approach
+## 📰 Modulating Effort Sensation in virtual reality: A Parameter-Based Haptic Feedback Approach
 
 Seamless, Inria, Univ. Rennes, France | 2026 | <a id="raw-url" href="https://ieeexplore.ieee.org/abstract/document/11363430">DOI</a> 
 Yann Glémarec, Tom Roy, Quentin Galvan, Gurvan Lécuyer, Ferran Argelaguet, Anatole Lécuyer |  | TVCG
 
+### Abstract
 
+Virtual reality is becoming increasingly popular, and modern haptic equipment, such as vibrotactile suits, haptic gloves, and force-feedback controllers, offers new means of interaction within virtual environments, significantly enhancing user experience. When interacting with virtual objects, combined visual and haptic feedback simulates the physical sensations of grasping, lifting, or moving real objects. This sensorimotor feedback is essential for inducing a sense of presence and agency, yet it remains challenging to reproduce in the absence of reliable haptic cues. In this study, we design and evaluate several haptic metaphors using combinations of vibrotactile design parameters to simulate the lifting effort associated with light to heavy objects. These parameters include primitive signals, intensity, spatial density, propagation, and temporal density. Our contribution is threefold. First, we propose a method for modulating perceived physical effort by extending signal intensity with spatial and temporal density, which together reflect the effort required to lift an object. Second, we present a user study in which participants compared haptic effects and ranked them according to perceived lifting effort, comfort, and confidence, allowing us to assess the influence of each parameter. Third, we report the results of a second study in which participants evaluated vibrotactile effects when lifting different virtual objects. The findings confirm the importance of intensity and spatial density, as well as the influence of graphical representation on perceived effort. This research provides practical insights for designing haptic-enabled virtual reality systems and offers guidance for developers seeking to create more expressive and believable vibrotactile interactions.
 
 ---
 
@@ -150,7 +154,6 @@ This article presents a novel method for controlling a virtual audience system (
 ## CONSONANCE
 
 ## SAM 
-
 
 ## Page en construction 🚧
 ---

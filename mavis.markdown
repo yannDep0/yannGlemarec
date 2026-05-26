@@ -1,5 +1,7 @@
 ---
 layout: page
+title: MAVIS
+permalink: MAVIS
 ---
 
 <style>
@@ -7,7 +9,7 @@ layout: page
     text-align: justify;
   }
 </style>
-# MAVIS
+
 ## Mise en scène d’agents virtuels crédibles pour l’évaluation expérimentale de la compréhension des interactions sociales.
 
 ---
