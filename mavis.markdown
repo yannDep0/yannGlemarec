@@ -1,7 +1,6 @@
 ---
 layout: page
-title: MAVIS
-permalink: MAVIS
+permalink: /MAVIS/
 ---
 
 <style>

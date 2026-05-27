@@ -8,6 +8,17 @@ permalink: /about/
   .page-content p {
     text-align: justify;
   }
+
+  .profile-notice {
+  margin: 30px 0;
+  padding: 18px 20px;
+  border-left: 4px solid #777;
+  background: #f7f7f7;
+}
+
+.profile-notice p {
+  margin-bottom: 0;
+}
 </style>
 
 <img src="{{ '/pictures/yann.jpg' | relative_url }}" alt="drawing" width="100" style="border-radius: 10%;"/>
@@ -15,8 +26,13 @@ permalink: /about/
 ---
 
 ## Yann Glémarec
+<section class="profile-notice" markdown="1">
 
-Associate Professor | University of Brest, Lab-STICC UMR 6285, France | 🔎 [ORCID](https://orcid.org/0000-0003-1717-6048) 
+**Associate Professor :** <BR>
+📍 University of Brest, Lab-STICC UMR 6285, France <BR>
+🔎 [ORCID](https://orcid.org/0000-0003-1717-6048) <BR>
+
+</section>
 
 --- 
 
@@ -26,11 +42,22 @@ I am an Associate Professor at the University of Brest, France, and a member of 
 
 ## Projects
 
-During my doctoral research, I worked on intelligent virtual agents and virtual reality simulations for education and exposure therapy (see [STAGE project](https://www.frontiersin.org/journals/virtual-reality/articles/10.3389/frvir.2022.876433/full)). I am currently involved in a project exploring user augmentation through haptic technologies, including the perception of strength in virtual reality via vibrotactile feedback and enhanced narrative engagement through multimodal feedback.
+I am currently working on the design of multimodal interactions for collaboration in immersive environments, primarily through the use of haptic technologies. I am particularly interested in multimodal rendering methods that enhance users haptic experience in various application areas, such as artistic co-creation, video games with asymmetric interactions, and virtual reality training. Visit the [portfolio page](https://yanndep0.github.io/yannGlemarec/portfolio/#projects) for more details on those projects.
 
 --- 
 
 ## 📚 Teaching
+
+### Teaching Responsibilities
+
+<section class="profile-notice" markdown="1">
+
+**Virtual Reality and Augmented Reality unit  :** [RV/RA](https://formations.univ-brest.fr/fr/index/sciences-technologies-sante-STS/master-XB/master-informatique-INRBV8Y3/parcours-systemes-interactifs-intelligents-et-autonomes-INRBVLH0/s9-siia-realite-virtuelle-realite-augmentee-KZ49M8M7.html) <BR>
+**Master cours :** M2 SIIA, University of Brest <BR>
+**Key-words :** XR technologies, 3D rendering, 3D modeling, navigation, 3D interaction, collaboration<BR>
+**Lecturers :** Cédric Fleury, Ronan Querrec, Étienne Peillard <BR>
+
+</section>
 
 ### Lectures
 
@@ -40,19 +67,22 @@ During my doctoral research, I worked on intelligent virtual agents and virtual 
 
 ### Labs
 
-- Object-oriented programming (Java OOP); ENIB & Univ Brest, Brest, France
+- Bachelor students' final project in Java, (OOP, UDP/TCP, HCI, GIT, Tests); Univ. Brest
+- Basic algorithms in C to bachelor students; Univ. Brest
+- Object-oriented programming (Java OOP); ENIB & Univ. Brest
 - Introduction to game engines (part of the game design course); SIIA Master (UBO, ENIB, IMT Atlantique)
-- Multidisciplinary project (Computer science, robotics, and embedded programming), leading the computer science side, developing a user interface, and the communication protocols to communicate (wi-fi, Bluetooth) with an autonomous robot (finite state machines) (ENIB)
-- Bachelor's technical projects (reponsible for the HCI and Networking features); Univ. Brest, France
-- Basic algorithm in C (2nd year of Bachelor); Univ. Brest, Brest, France
-- Software engineering (shared labs to all Masters); Univ. Brest, France
+- Multidisciplinary project (Computer science, robotics, and embedded programming), leading the computer science side, developing a user interface, and the communication protocols to communicate (wi-fi, Bluetooth) with an autonomous robot (finite state machines); ENIB
+- Bachelor's technical projects (reponsible for the HCI and Networking features); Univ. Brest
+- Basic algorithm in C (2nd year of Bachelor); Univ. Brest, 
+- Software engineering; ENIB and Univ. Brest 
 
 ### Student Supervision
 
+- Daryl Vassalo (Erasmus Intership with the Sea-EU Alliance): Haptic Interactive Media Design for Short Animated Movies and Games
 - Jessica Topel (Master thesis HCI Group): supporting me on my thesis, enhancing the animation pipeline for virtual reality.
 - Florian Wellmeyer, Lucas Brand, Fergal Iquel (ENIB): MPEG standard communication with a universal robot, programming of proxemic behaviors, virtual agent navigation, and IK in virtual reality.
-- Paul Cagniat, Tien Đung, Léna Vigne (UBO Master SIIA): developing a digital twin of Brest populated with virtual agents, integrating UE5 AI tools to program bots for a student bot believability contest.
-- Daryl Vassalo (Erasmus Intership with the Sea-EU Alliance): Haptic Interactive Media Design for Short Animated Movies and Games
+- Paul Cagniat, Tien Đung, Léna Vigne (UBO Master SIIA): developing a digital twin of Brest populated with virtual agents, integrating UE5 AI tools to program bots for a student bot believability contest, adding IK to virtual spiders for a VR exposure therapy application.
+
 
 ## HAL Publication
 

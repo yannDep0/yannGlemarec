@@ -80,10 +80,12 @@ permalink: /portfolio/
 
 <div class="research-nav">
   <a href="#publications">Publications</a>
-  <a href="#projects">Projects</a>
+  <a href="#projects">Current Projects</a>
   <a href="#thesis">PhD Thesis</a>
 </div>
  
+---
+
 # Publications {#publications}
 
 <img src="{{ '/pictures/SpatializationExample.png' | relative_url }}" alt="User Study figure depicting the vibrotactile feedback propagation." width="500" style="display: block; margin: 0 auto; margin-top: 15px;" />
@@ -150,12 +152,20 @@ This article presents a novel method for controlling a virtual audience system (
 # Research projects {#projects}
 
 ## MAVIS 
+### *Mise en scène d’agents virtuels crédibles pour l’évaluation expérimentale de la compréhension des interactions sociales.*
 
-## CONSONANCE
+🇫🇷 -- Les objectifs du projet inter-instituts brestois [MAVIS](https://yanndep0.github.io/yannGlemarec/MAVIS/) sont de moderniser un outil psychométrique et de l’adapter à des études plus contemporaines sur les interactions sociales, en se basant sur des technologies immersives et adaptatives.
+
+🇬🇧 -- The objectives of the inter-instituts brestois MAVIS project are to modernize a psychometric tool and adapt it to more contemporary research on social interactions, using immersive and adaptive technologies.
+
+## CONSONENCE
+### *Modélisation d’agents sociaux intelligents et interactions multimodales pour des expériences immersives.*
+
+The [**CONSONENCE**](https://yanndep0.github.io/yannGlemarec/CONSONENCE/) project aims to study collaboration between users and virtual agents within heterogeneous immersive environments populated by agents endowed with social interaction capabilities. More specifically, it focuses on the task of listening to narrative content (podcasts, streaming media, oral storytelling, or immersive stereoscopic videos) in a virtual space where embodied agents sustain narrative tension and encourage user interaction with the environment. Such a task, when performed in mixed reality (MR), raises significant scientific and technical challenges: users are physically distant, rely on diverse MR devices (CAVE systems, VR/AR headsets, tablets, screens), and consequently lose access to natural communication channels. This heterogeneity hinders collaboration and collective creativity [1], ultimately degrading user experience quality, engagement, and the emergence of spontaneous interactions.
 
 ## SAM 
-
-## Page en construction 🚧
+[Link](https://yanndep0.github.io/yannGlemarec/SAM/)
+## Page en construction / Work in progress 🚧
 ---
 
 <img src="{{ '/pictures/ScannedAvatar.jpg' | relative_url }}" alt="Three point of view of my scanned avatar in the STAGE application." width="700" style="display: block; margin: 0 auto; margin-top: 15px;" />
