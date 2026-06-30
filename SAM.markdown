@@ -27,7 +27,7 @@ permalink: /SAM/
 --- 
 
 <section class="SAM-notice" markdown="1">
-🧑‍🎓 **Candidate**: Susan Bachelot
+🧑‍🎓 **Candidate**: *à déterminer*
 - **Directeur de thèse**: Vincent Rodin
 - **Encadrants**: Jérémy Rivière, Yann Glémarec 
 <BR>
