@@ -102,7 +102,7 @@
           {%- for path in page_paths -%}
             {%- assign my_page = site.pages | where: "path", path | first -%}
             {%- if my_page.title and my_page.url != "/SIIA/" -%}
-              {%- if my_page.url == "/about/" -%}
+              {%- if my_page.url == "/teaching/" -%}
                 <span class="nav-item has-submenu">
                   <a class="page-link" href="{{ my_page.url | relative_url }}" aria-haspopup="true">{{ my_page.title | escape }}</a>
                   <span class="site-submenu" aria-label="About pages">

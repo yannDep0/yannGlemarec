@@ -54,8 +54,8 @@ I am currently working on the design of multimodal interactions for collaboratio
 
 **Virtual Reality and Augmented Reality unit  :** [RV/RA](https://formations.univ-brest.fr/fr/index/sciences-technologies-sante-STS/master-XB/master-informatique-INRBV8Y3/parcours-systemes-interactifs-intelligents-et-autonomes-INRBVLH0/s9-siia-realite-virtuelle-realite-augmentee-KZ49M8M7.html) <BR>
 **Master cours :** M2 SIIA, University of Brest <BR>
-**Key-words :** XR technologies, 3D rendering, 3D modeling, navigation, 3D interaction, collaboration<BR>
-**Lecturers :** Cédric Fleury, Ronan Querrec, Étienne Peillard <BR>
+**Keywords :** XR technologies, 3D rendering, 3D modeling, navigation, 3D interaction, collaboration<BR>
+**Co-Lecturers :** Cédric Fleury, Ronan Querrec, Étienne Peillard <BR>
 
 </section>
 

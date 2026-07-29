@@ -1,6 +1,6 @@
 ---
 layout: page
-title: M2 SIIA
+title: M2 SIIA - RV/RA
 permalink: /SIIA/
 ---
 
@@ -10,6 +10,14 @@ permalink: /SIIA/
   }
 </style>
 
-# M2 SIIA
+# 1- Introduction to Virtual Reality
+
+### Lecture content
+- History of virtual reality
+- Stereoscopy 
+- Devices
+
+
+
 
 Page en construction / Work in progress

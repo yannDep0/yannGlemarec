@@ -36,6 +36,7 @@ plugins:
 
 header_pages:
   - portfolio.markdown
+  - teaching.markdown
   - about.markdown
   - hiring.markdown
   - credits.markdown
